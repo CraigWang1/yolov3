@@ -1,0 +1,4 @@
+classes=1
+train=../coco/train2017.txt
+valid=../coco/val2017.txt
+names=data/comp.names
